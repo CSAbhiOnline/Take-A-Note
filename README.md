@@ -30,7 +30,7 @@ This project allows for modern Android development practices, utilizing the foll
 
 * **Language:** [Kotlin](https://kotlinlang.org/)
 * **UI Toolkit:** [Jetpack Compose](https://developer.android.com/jetpack/compose) (Modern, declarative UI)
-* **IDE:** Android Studio Ladybug (or newer)
+* **IDE:** Android Studio
 * **Authentication:** [Firebase Authentication](https://firebase.google.com/docs/auth) (Google Sign-In implementation)
 * **Database:** [Cloud Firestore](https://firebase.google.com/docs/firestore) (NoSQL cloud database)
 
