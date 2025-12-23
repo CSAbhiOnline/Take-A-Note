@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Google Login</string>
+    <string name="app_name">Take a Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="save">Save</string>
+    <string name="new_note">New Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
 </resources>
