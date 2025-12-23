@@ -30,7 +30,7 @@ fun LoginScreen(
             verticalArrangement = Arrangement.Center,
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
-            Text(text = "Welcome to Google Login", style = MaterialTheme.typography.headlineMedium)
+            Text(text = "Welcome to Take a Note", style = MaterialTheme.typography.headlineMedium)
             Spacer(modifier = Modifier.height(32.dp))
             Button(onClick = {
                 scope.launch {
