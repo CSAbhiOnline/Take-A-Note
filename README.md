@@ -1,6 +1,6 @@
 # 📝 Take A Note
 <p align="center">
-    <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Take A Note Banner" width="600"/>
+    <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Take A Note Banner" width="130"/>
 </p>
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.1.0-purple?style=for-the-badge&logo=kotlin)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-4285F4?style=for-the-badge&logo=android)
